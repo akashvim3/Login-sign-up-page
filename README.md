@@ -48,8 +48,7 @@ If a backend is used, follow the backend-specific setup instructions provided in
 ## Live Demo
 
 Check out the live demo of the project here:
-[Live Demo](https://example.com/demo-login-signup)  
-*(Replace with the actual demo URL)*
+[Live Demo](https://akashvim3.github.io/Login-sign-up-page/)  
 - **Log**: Monitor network requests using browser developer tools during the demo to understand API calls.
 
 ---
